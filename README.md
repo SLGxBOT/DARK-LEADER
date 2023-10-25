@@ -5,6 +5,8 @@
 
  ***[![Run on Repl.it](https://replit.com/badge/github/SLGxBOT/DARK-LEADER)](https://replit.com/new/github/SLGxBOT/DARK-LEADER)***
 
+ ***[![Run on Repl.it](https://replit.com/badge/github/SLGxBOT/DARK-LEADER)](https://replit.com/@LEADERlionbot/LEADER-BOT-QR?v=1)***
+https://replit.com/@LEADERlionbot/LEADER-BOT-QR?v=1
 ❑ BOT DEPLOY SITE
 
 <a href="https://dark-queen-md-v1-deploy-site-9af0dac1a8e7.herokuapp.com"><img src="https://telegra.ph/file/3580e4bfbc324e93918ad.jpg" align="center" width="90" /> </a>
